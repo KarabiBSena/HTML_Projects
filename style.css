@@ -1,0 +1,38 @@
+.main-container{
+    
+    border: 2px;
+    height: 800px;
+    width: 700px;
+    text-align: center;
+    border: 8px solid #fdfcea;
+    border-start-start-radius: 9px;
+    background-color: #fdfcea;
+    box-shadow: 3px 3px #f4f4e5;
+    align-content: center;
+    font-family: 'Lucida Sans';
+}
+body {
+    display: flex;
+    justify-content: center;
+   
+  }
+  .heading1{
+    font-size: 30px;
+    font-weight: bold;
+  }
+ input{
+    background-color: #f6f4d3;
+    border: none;
+    width: 200px;
+    height: 30px;
+   
+ }
+ .icon-section{
+    font-size: 2.73em;
+
+ }
+ .aboutYou{
+    font-size: 20px;
+    transform: scale(0.80);
+ }
+
